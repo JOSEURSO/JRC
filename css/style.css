@@ -30,3 +30,18 @@ h5{
     color: red;
     text-align: center;
 }
+
+ i{
+  color: white;
+  background-color: red;
+  
+ 
+ }
+
+ span{
+  color: red;
+ }
+
+ span i{
+  background-color: blue;
+ }
